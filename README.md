@@ -30,7 +30,7 @@ Disponibilizado em um curso pela Digital Innovation One, recriei a interface do 
 ## Versão Web:
 
 <br>
-    <img src="./github/clonenetflix.png" all="Clone da interface Netfix">
+    <img src="./github/layout.png" all="Clone da interface Netfix">
 <br>
 
 ---
